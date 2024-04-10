@@ -44,4 +44,4 @@ Currently studying Information Science at the University of Otago. My interests.
 <!-- info on this plugin: https://github.com/anuraghazra/github-readme-stats#readme -->
 ![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME-HERE&count_private=true&show_icons=true&theme=github_dark&hide=contribs)
 
-<a href = 'www.linkedin.com/in/ella-hodgson-093a0a274'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/ella-hodgson-093a0a274'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
