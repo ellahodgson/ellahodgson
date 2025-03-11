@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=435&lines=Kia+Ora...+I'm+Ella;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
-## 🌱 About me
+## 🇳🇿 About me
 - 🎓 I am in my final year at the University of Otago studying towards a Bachelor of Science in Information Science with a minor in Psychology.
 - 🇮🇪 I am currently overseas completing on exchange at Trinity College Dublin.
 - 🥰 I'm passionate about empowering people through the creation meaningful digital solutions.
